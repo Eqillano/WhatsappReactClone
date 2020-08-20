@@ -22,7 +22,7 @@ function Login() {
     return (
         <div className="login">
         <div className="login__container">
-        <img src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/>
             <div className='login__text'>
             <h1>
                 Sign in to WhatsApp
